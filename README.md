@@ -20,7 +20,7 @@ Outside of tech, I'm a tea lover. I always enjoy exploring new places, capturing
 * 💬  Ask me about **Web Development**
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on GitHub
-* ⚡  Fun fact I'm not superstitious but I'm a little stitious.
+* ⚡  Fun fact I'm an **Enthusiastic** lazy **Coder**
 
 ### Skills
 
