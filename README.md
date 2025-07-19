@@ -14,7 +14,7 @@ If you're looking for a web designer & developer. Who has lots of love for writi
 Outside of tech, I'm a tea lover. I always enjoy exploring new places, capturing moments through photography, and of course. Always up for new experiences and great conversations!
 
 * 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/mhtuhin-always/)
+* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/mhtuhin-always/)
 * ✉️  You can contact me at [hasibulislamtuhin@gmail.com](mailto:hasibulislamtuhin@gmail.com)
 * 🚀  I'm currently working on [Portfolio](http://https://fivepflow.com/)
 * 💬  Ask me about **Web Development**
